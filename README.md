@@ -8,9 +8,7 @@ Recréer un jeu similaire à **Duck Hunt** où le joueur doit tirer sur des cana
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Mouvements des canards : ?% <br>
-- Système de tir : ?% <br>
+- ✔️ TOTAL : 1.5 (Segmentation fault)
 <br>
 
 >[!IMPORTANT]
